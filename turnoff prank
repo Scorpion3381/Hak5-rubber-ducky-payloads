@@ -1,0 +1,21 @@
+GUI
+
+DELAY 5000
+
+STRING cmd
+
+DELAY 500
+
+ENTER
+
+DELAY 2000
+
+STRING turnoff/s
+
+DELAY 500
+
+STRING exit
+
+DELAY 500
+
+ENTER
